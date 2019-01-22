@@ -42,3 +42,4 @@ How can you tell what changes are going to be added to the next commit?
 Commit your changes using `git commit`. Don't forget to write a meaningful commit message (you'll thank yourself in future)!
 
 Now push the commit you've just made to Github using `git push`. All done! Read 'step2' to see what comes next.
+
